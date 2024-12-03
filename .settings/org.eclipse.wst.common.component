@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="examination">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="jakarta.servlet.jsp.jstl-api-2.0.0-RC1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/jakarta.servlet.jsp.jstl-api-2.0.0-RC1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.48-bin.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/mysql-connector-java-5.1.48-bin.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-5.1.48.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/mysql-connector-java-5.1.48.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="protobuf-java-2.6.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/protobuf-java-2.6.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-api-1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/jstl-api-1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="mysql-connector-java-8.0.11.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/mysql-connector-java-8.0.11.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.servlet-3.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/javax.servlet-3.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="junit-4.13.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/junit-4.13.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="servlet-api.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/servlet-api.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jakarta.servlet.jsp.jstl-api-3.0.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/jakarta.servlet.jsp.jstl-api-3.0.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jakarta.servlet.jsp.jstl-3.0.1.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/jakarta.servlet.jsp.jstl-3.0.1.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="javax.servlet.jsp.jstl.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/javax.servlet.jsp.jstl.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jakarta.servlet-api-4.0.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/jakarta.servlet-api-4.0.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-impl-1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/jstl-impl-1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="jstl-1.2.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/C:/Users/Nimanji/Downloads/jar Files/JAR Files/jstl-1.2.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="examination"/>
+        <property name="java-output-path" value="/examination/build/classes"/>
+    </wb-module>
+</project-modules>
